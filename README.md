@@ -1,0 +1,4 @@
+
+```
+cp .env.sample .env
+```
